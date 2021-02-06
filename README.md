@@ -1,2 +1,1 @@
-# fruit-catcher-2
-game
+# C39-Debug-Part-1
